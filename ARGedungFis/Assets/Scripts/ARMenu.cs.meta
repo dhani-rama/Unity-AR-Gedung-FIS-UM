@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a013bb6a2364ab14ea4a4de29aedb310
+timeCreated: 1543716008
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - guiSkin: {instanceID: 0}
+  - GedungFIS: {instanceID: 0}
+  - navAtas: {fileID: 2800000, guid: a025fcf718bbe6d48b05ba6eb4a8b3a3, type: 3}
+  - navBawah: {fileID: 2800000, guid: af0804bd53eda0f4cb47767794b90878, type: 3}
+  - navKanan: {fileID: 2800000, guid: a90ab27918769da4b83349cf2fb12089, type: 3}
+  - navKiri: {fileID: 2800000, guid: a67b6b8526a440241bb12fc1cf3f12ff, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
